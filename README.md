@@ -22,4 +22,10 @@ Annadata is a mobile application that enables farmers to sell produce directly t
 Secured 2nd Place at Hack the Horizon Hackathon.
 
 ## Demo
-QR code or app link
+
+Live Application:  
+https://techtitanss-team.adalo.com/annadata2-0?target=78b464b6f46a4d4389e660ece415f798&params=%7B%7D
+
+Scan the QR code below to open the application:
+
+![Annadata Demo](qr.png)
