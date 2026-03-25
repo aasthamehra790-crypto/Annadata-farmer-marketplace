@@ -28,4 +28,4 @@ https://techtitanss-team.adalo.com/annadata2-0?target=78b464b6f46a4d4389e660ece4
 
 Scan the QR code below to open the application:
 
-![Annadata Demo](qr.png)
+![QR Code](https://raw.githubusercontent.com/aasthamehra790-crypto/Annadata-farmer-marketplace/main/f5dbf11a-e452-4de8-b61c-2da368d751a3.jpg)
